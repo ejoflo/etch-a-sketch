@@ -62,7 +62,7 @@ h3 {
     margin: 0 auto;
     background-color: rgb(255, 67, 183);
     width: 150px;
-    height: 20px;
+    height: auto;
     box-sizing: border-box;
 }
 
